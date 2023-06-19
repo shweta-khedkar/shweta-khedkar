@@ -4,7 +4,5 @@
 - 💞️ I’m looking to collaborate on java projects
 - 📫 How to reach me shwetajkhedkar123@gmail.com
 
-<!---
-shweta-khedkar/shweta-khedkar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+Ambitious and talented Full Stack Developer with a passion for creating innovative and user-friendly web applications. As a recent graduate with a solid foundation in programming principles and hands-on experience in various technologies, eager to kick-start my career and contribute to dynamic development teams.
